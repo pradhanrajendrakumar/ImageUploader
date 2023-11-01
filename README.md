@@ -24,4 +24,5 @@ The use of the latest ASP.NET Web API 8 Preview ensures a modern and efficient w
 
 # Architechture
 
+![Alt text]("C:\Users\rajen\Downloads\Picture1.png")
 
