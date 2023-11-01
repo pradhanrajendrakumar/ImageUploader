@@ -23,6 +23,6 @@ The use of the latest ASP.NET Web API 8 Preview ensures a modern and efficient w
 - Azure Blob
 
 # Architechture
-![](/Downloads/Picture1.png)
 
+![image](https://github.com/pradhanrajendrakumar/ImageUploader/assets/42897150/ea0076d3-fb52-499b-bfeb-00a79ed6ce68)
 
